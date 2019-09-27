@@ -1,0 +1,7 @@
+pyjwt
+-e git+https://github.com/Runnerly/flakon.git#egg=flakon
+flask_webtest
+cryptography
+sqlalchemy
+flask_sqlalchemy
+chaussette
